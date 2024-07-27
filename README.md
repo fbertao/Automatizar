@@ -1,12 +1,3 @@
-# Abrir o sistema da empresa
-    # https://dlp.hashtagtreinamentos.com/python/intensivao/login
-    # Abrir navegador
-    # Entrar no site do sistema
-# Fazer login
-# Importar base de dados dos produtos
-# Cadastrar um produto
-# Repetir o processo 
-
 # Abrir sistema da empresa
 import pyautogui
 import time
